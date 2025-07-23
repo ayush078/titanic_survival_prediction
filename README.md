@@ -87,12 +87,3 @@ Finally, run the prediction script to generate the `submission.csv` file in the 
 cd titanic_survival_prediction/src
 python3 predict_and_submit.py
 ```
-
-## Next Steps
-
-- You can now submit the generated `submission.csv` file to the Kaggle Titanic competition.
-- To further improve the model\"s accuracy, you can explore:
-    - More sophisticated feature engineering techniques.
-    - Different ensemble methods (e.g., stacking).
-    - Advanced hyperparameter tuning for each individual model.
-    - Cross-validation strategies.
